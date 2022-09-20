@@ -1,1 +1,1 @@
-# image-slider
+https://aleksey-kirsanov.github.io/image-slider/
